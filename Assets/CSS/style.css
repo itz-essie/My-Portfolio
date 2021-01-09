@@ -1,4 +1,5 @@
-    .btn-group{ 
+.btn-group{ 
   cursor: pointer;
-  display: block;
+  display:inline;
+  display: block !important;
 }
