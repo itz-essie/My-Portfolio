@@ -59,9 +59,9 @@
 
 <!--Section: Contact v.2-->
 <div class="content">
-  <div class="container my-3 p-3 border border border-secondary bg-light">
+  <div class="container my-3 p-3 border border border-secondary bg-light contact">
     <div class="d-flex row">
-      <div class="align-items-baseline col-md-12 text-dark">
+      <div class="align-items-baseline col-sm-12 col-md-6 col-lg-3 text-dark">
         <h2 class="h2-responsive font-weight-bold text-center my-4">Contact Me</h2>
       </div>
     </div>
@@ -69,11 +69,17 @@
     <div class="row">
       <div class="col">
           <div class="card-header">
-            <div class="form-group">
-              <label for="exampleFormControlInput1">Name</label>
-              <input type="name" class="form-control" id="exampleFormControlInput1">
+            <div class="row">
+              <div class="col">
+                <!-- <label for="exampleFormControlInput1">First Name</label> -->
+                <input type="text" class="form-control" placeholder="First name">
+              </div>
+              <div class="col">
+                <!-- <label for="exampleFormControlInput1">Last Name</label> -->
+                <input type="text" class="form-control" placeholder="Last name">
+              </div>
             </div>
-
+<hr>
               <div class="form-group">
                 <label for="exampleFormControlInput1">Email address</label>
                 <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
@@ -85,7 +91,6 @@
                 <div class="text-center text-md-center">
               <a class="btn btn-dark" onclick="document.getElementById('contact-form').submit();">Submit</a>
           </div>
-          <div class="status"></div>
         </div>
         </div>
       </div>
