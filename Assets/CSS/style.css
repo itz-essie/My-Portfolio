@@ -2,7 +2,6 @@
   cursor: pointer;
   display: block !important;
   margin: 5px;
-  justify-content: center;
 }
 li{
     list-style: none;
