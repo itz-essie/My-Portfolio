@@ -1,24 +1,18 @@
-# Homework 2- Responsive Portfolio 
-Tasked with utilzing Bootstrap CSS Framework to create a mobile responsive portfolio. 
+# Responsive Portfolio 
 
-## Index.html
-- Included a nav bar which was cohesive across all 3 html documents. Nav bar includes links that will navaigate to Home/About, Contact, and Portfolio pages.
-Included a profile picture (headshot) with a brief biography 
-
-## Portfolio.html
-- Included a nav bar which was cohesive across all 3 html documents.  Nav bar includes links that will navaigate to Home/About, Contact, and Portfolio pages.
-Container with images that will serve as placeholders. 
-
-## Contact.html
-- Included a nav bar which was cohesive across all 3 html documents.  Nav bar includes links that will navaigate to Home/About, Contact, and Portfolio pages.
-Container included with a contact form for user to input data(Name, Email, and Message) with a submit button 
+## Description
+Created a fully responsive portfolio by utilizing HTML, CSS, and Bootstrap's CSS/Javascript Library. Portfolio consists on an "About Me" page, a "Portfolio" page to showcase my work, and a "Contact" page.
 
 
 
+## Demo 
 ![ Deployed Demo](./Assets/Screenshots/demo.gif)
 
 
 
 ## Links
 1. Repository- https://github.com/itz-essie/My-Portfolio
-2. Deployed Link- https://itz-essie.github.io/My-Portfolio/
+2. Deployed Link- https://itz-essie.github.io/My-Portfolio/ 
+\
+
+Copyright [2021] [Esiena Ekwofia]
