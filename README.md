@@ -15,7 +15,9 @@ Container included with a contact form for user to input data(Name, Email, and M
 
 
 
-![ Deployed Demo](Assets/images/Screenshots/Demo.mp4)
+![ Deployed Demo](Assets/images/Screenshots/AboutMe.gif)
+
+
 
 ## Links
 1. Repository- https://github.com/itz-essie/My-Portfolio
