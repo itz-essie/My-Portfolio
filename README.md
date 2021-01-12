@@ -15,7 +15,7 @@ Container included with a contact form for user to input data(Name, Email, and M
 
 
 
-![ Deployed Demo](Assets/images/Screenshots/AboutMe.gif)
+![ Deployed Demo](./Assets/Screenshots/demo.gif)
 
 
 
