@@ -1,14 +1,14 @@
-.btn { 
+.btn {
   cursor: pointer;
   display: block !important;
   margin: 5px;
 }
-li{
-    list-style: none;
+li {
+  list-style: none;
 }
-.content{
-    opacity: 0.9;
+.content {
+  opacity: 0.9;
 }
 p {
-    color: black;
+  color: black;
 }
